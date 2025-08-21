@@ -19,12 +19,12 @@ SDK and toolchain.
 
 The Magic Lantern Studio is comprised of the following repositories
 
-* mle-core-env - Core build environment tools
-* mle-core-util - Core Magic Lantern utility library
-* mle-core-math - Core Magic Lantern math libraries
-* mle-core-dwp - Core Magic Lantern Digital Workprint libraries
-* mle-core-dpp - Core Magic Lantern Digital Playprint libraries
-* mle-parts - Magic Lantern parts (Actor/Role/MediaRef/Set/Stage components)
-* mle-atk - Magic Lantern Authoring Toolkit library
-* mle-players - Magic Lantern Rehearsal Player
-* mle-studio - Magic Lantern Studio IDE
+* **mle-core-env** - Core build environment tools
+* **mle-core-util** - Core Magic Lantern utility library
+* **mle-core-math** - Core Magic Lantern math libraries
+* **mle-core-dwp** - Core Magic Lantern Digital Workprint libraries
+* **mle-core-dpp** - Core Magic Lantern Digital Playprint libraries
+* **mle-parts** - Magic Lantern parts (Actor/Role/MediaRef/Set/Stage components)
+* **mle-atk** - Magic Lantern Authoring Toolkit library
+* **mle-players** - Magic Lantern Rehearsal Player
+* **mle-studio** - Magic Lantern Studio IDE

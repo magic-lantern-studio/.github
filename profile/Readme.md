@@ -24,6 +24,7 @@ The Magic Lantern Studio is comprised of the following repositories
 * **mle-core-math** - Core Magic Lantern math libraries
 * **mle-core-dwp** - Core Magic Lantern Digital Workprint libraries
 * **mle-core-dpp** - Core Magic Lantern Digital Playprint libraries
+* **mle-core-mlert** - Core Magic Lantern Runtime Engine library
 * **mle-parts** - Magic Lantern parts (Actor/Role/MediaRef/Set/Stage components)
 * **mle-atk** - Magic Lantern Authoring Toolkit library
 * **mle-players** - Magic Lantern Rehearsal Player
@@ -40,6 +41,7 @@ The SDK is constructed from the following repositories:
 * **mle-core-math** - Core Magic Lantern math libraries
 * **mle-core-dwp** - Core Magic Lantern Digital Workprint libraries
 * **mle-core-dpp** - Core Magic Lantern Digital Playprint libraries
+* **mle-core-mlert** - Core Magic Lantern Runtime Engine library
 
 In addition to the Core libraries, the SDK provides the tools for mastering
 a title.
